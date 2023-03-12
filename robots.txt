@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://samkok-angka-togel.github.io/sat-1/sitemap.xml
